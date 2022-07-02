@@ -6,4 +6,5 @@ export const AppSection = styled.section`
 export const SectionTitle = styled.h1`
     margin-bottom: ${({ theme }) => theme.spacing(7)};
     text-align: center;
+    color: #ffffff;
 `;

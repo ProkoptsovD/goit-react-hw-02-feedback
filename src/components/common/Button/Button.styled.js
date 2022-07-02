@@ -4,13 +4,14 @@ export const Btn = styled.button`
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 80px;
-    height: 30px;
+    width: 100px;
+    height: 50px;
     font: inherit;
+    font-weight: 600;
     border: none;
     border-radius: 10px;
     background-color: #cacaca;
-    color: #ffffff;
+    color: #27acb3;
 
     cursor: pointer;
 
