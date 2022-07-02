@@ -1,1 +1,0 @@
-export const findAvarage = (baseValue, total) => baseValue * 100 / total;
